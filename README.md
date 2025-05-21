@@ -1,6 +1,6 @@
 # Smart Invoice Spend
 
-This project uses Large Language Models (LLMs) to extract, classify, and analyze invoice line items. The goal is to automate spend categorization and uncover insights using a low-code/no-code AI tool stack.
+This project uses Large Language Models (LLMs) to extract, classify, and analyze invoice line items. The goal is to automate spend categorization and uncover insights using  AI tool stack.
 
 ## 💼 Use Case
 
